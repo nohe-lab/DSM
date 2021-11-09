@@ -95,7 +95,7 @@ profilestring.m: Perfiles para diferentes idiomas.
 
 
 6. Inicializar Ipl.m ubicado en la carpeta src. 
-7. Abrir config.m ubicado en src y ejecutarlo, abrira una ventana donde se selccioanr |add patch|. 
+7. Abrir config.m ubicado en setup y ejecutarlo, abrira una ventana donde se selccioanr |add patch|. 
 8. Correr s5_ubicacion_ambulancias_yulmip, que se encuentra en la carpeta sample
 
 
