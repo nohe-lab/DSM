@@ -80,22 +80,25 @@ Con esto tendría que poder subir nuevamente el script SQL para importar sin pro
    
  5. Conectar a la base de datos.   
  5.1  (Por primera vez configuración )Ir a la pestaña |APP| y buscar |data base explorer| seleccionar |New | ODBC |Agregar|Seleccionar MySQL ODBC 5.3 ANSI Driver|
-     completar la información solicitada:
-     Data Source Name: bd
-     Description: bd de los meses
-     TCP/IP Server: Es la ip de la pc.
-     Port: 3306
-     User: gah
-     Password: 123456}
-     Database: cr_main
+    completar la información solicitada:
+    Data Source Name: bd
+    
+    Description: bd de los meses
+    
+    TCP/IP Server: Es la ip de la pc.
+    
+    Port: 3306
+    
+    User: gah
+    
+    Password: 123456
+    
+    Database: cr_main
  
  5.2 (Cada vez que se inicia por primera vez)Ir a la pestaña |APP| y buscar |data base explorer| seleccionar |conecct| 
-      completar la información solicitada:
-      Username: bd
-      Password: 123456
-      presionar Connect
-    
-    En la ventana colocar el usuario: gah y password:123456 de la base de datos y conectar.
+    completar la información solicitada
+      
+    En la ventana colocar el  Username: gah y Password:123456 de la base de datos y conectar.
 
  6. Configuración
 
