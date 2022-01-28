@@ -80,7 +80,8 @@ Con esto tendría que poder subir nuevamente el script SQL para importar sin pro
    
  5. Conectar a la base de datos.   
  5.1  (Por primera vez configuración )Ir a la pestaña |APP| y buscar |data base explorer| seleccionar |New | ODBC |Agregar|Seleccionar MySQL ODBC 5.3 ANSI Driver|
-    completar la información solicitada:
+ 
+    Completar la información solicitada:
     Data Source Name: bd
     
     Description: bd de los meses
@@ -96,7 +97,7 @@ Con esto tendría que poder subir nuevamente el script SQL para importar sin pro
     Database: cr_main
  
  5.2 (Cada vez que se inicia por primera vez)Ir a la pestaña |APP| y buscar |data base explorer| seleccionar |conecct| 
-    completar la información solicitada
+    Completar la información solicitada
       
     En la ventana colocar el  Username: gah y Password:123456 de la base de datos y conectar.
 
@@ -111,7 +112,7 @@ init.m: Inicialización.
 profilestring.m: Perfiles para diferentes idiomas.
 
 
-6. Inicializar Ipl.m ubicado en la carpeta src. 
+6. Inicializar Ipl.m ubicado en la carpeta setup. 
 7. Abrir config.m ubicado en setup y ejecutarlo, abrira una ventana donde se selccioanr |add patch|. 
 8. Correr s5_ubicacion_ambulancias_yulmip, que se encuentra en la carpeta sample
 
