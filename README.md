@@ -76,7 +76,7 @@ Con esto tendría que poder subir nuevamente el script SQL para importar sin pro
     
  3. configurar la ip de la pc en Matlab para la base de datos.
  
- 4. Cargar el archivo odbcconfig.mat que se encuentra en la carpeta cr/z programas
+ 4. Cargar el archivo jdbcConfig.mat que se encuentra en la carpeta cr/z programas
    
  5. Conectar a la base de datos.   
  5.1  (Por primera vez configuración )Ir a la pestaña |APP| y buscar |data base explorer| seleccionar |New | ODBC |Agregar|Seleccionar MySQL ODBC 5.3 ANSI Driver|
