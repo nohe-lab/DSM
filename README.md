@@ -117,7 +117,6 @@ profilestring.m: Perfiles para diferentes idiomas.
 8. Correr s5_ubicacion_ambulancias_yulmip, que se encuentra en la carpeta sample
 
 
-#  Disponible en https://drive.google.com/file/d/1aJ91btKBOZ7lK0DtbOJ5LfnKzjucZEMc/view?usp=sharing
+#  Disponible en:
 
-
-                                 
+https://drive.google.com/drive/folders/15qFOdjJ1eMlLOrk1pmY9Ud2nqIaZlopt                              
